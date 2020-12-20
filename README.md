@@ -8,4 +8,8 @@ This is an example of how to show differente parts of the Git repository and var
 
 ## Purpose
 
+To provide simple example for Git training demos.
+
 ## Deployment
+
+Deployment can be any web server or even local file system.
