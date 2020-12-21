@@ -13,3 +13,7 @@ To provide simple example for Git training demos.
 ## Deployment
 
 Deployment can be any web server or even local file system.
+
+### Copyright
+
+2014 Git.Training
